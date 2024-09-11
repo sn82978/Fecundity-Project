@@ -73,4 +73,3 @@ if __name__ == "__main__":
     # Step 2: Process a single image (let's use the first split as an example)
     vector = process_single_image(split_images[0])
     print(f"Extracted vector: {vector}")
-
